@@ -1,0 +1,56 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set body styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+  /* Set header styles */
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Set main section styles */
+  main {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Set about section styles */
+  #about {
+    margin-bottom: 20px;
+  }
+  
+  /* Set footer styles */
+  footer {
+    text-align: center;
+  }
+  
+  /* Set contact section styles */
+  #contact {
+    margin-top: 20px;
+  }
+  
+  /* Set heading styles */
+  h1,
+  h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Set paragraph styles */
+  p {
+    margin-bottom: 10px;
+  }
